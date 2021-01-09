@@ -107,8 +107,8 @@ default_rf_keymaps = {
     'brush strength': {'SHIFT+F'},
 
     # pie menu
-    'pie menu': {'CTRL+ONE'},
-    'pie menu alt0': {'CTRL+ALT+ONE'},
+    'pie menu': {'W'},
+    'pie menu alt0': {'CTRL+W'},
     'pie menu confirm': {'LEFTMOUSE+CLICK', 'LEFTMOUSE+DRAG'},
 
     # shortcuts to tools
